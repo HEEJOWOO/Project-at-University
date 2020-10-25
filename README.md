@@ -3,9 +3,9 @@
 #### <I studied while referring to various sites, but it is not enough. Thanks anytime for feedback.>
 ### <heejo5@naver.com>
 
-## 고급임베디드시스템설계
-시연 영상 : https://www.youtube.com/watch?v=o2rErwOosto
---------------------------------------------------------
+# 고급임베디드시스템설계
+### 시연 영상 : https://www.youtube.com/watch?v=o2rErwOosto
+
 * 고급임베디드시스템 수업 중 기말고사 텀프로젝트로 만들어낸 공장 사고방지 임베디드시스템
 
 * 한국산업기술대학교 전자공학과 임베디드시스템 전공 
@@ -13,8 +13,7 @@
 * 서형진 : Buzzer,  LCD, Dot Matrix, 화제감지센서, PIR
 * 공통 : Screen, USB CAN, OpenCV 환경설정
 
-주요 기능 
----------
+### 주요 기능 
 * FND : 인체 감지 횟수, 화재 감지 횟수, Step Motor 속도,  시스템 On/Off 
 * LED : Step Motor 속도 단계별 표시
 * Dot : 감지된 종류에 따라 모양 표시 및 알림 기능
