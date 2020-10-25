@@ -9,7 +9,7 @@
 * 고급임베디드시스템 수업 중 기말고사 텀프로젝트로 만들어낸 공장 사고방지 임베디드시스템
 
 * 한국산업기술대학교 전자공학과 임베디드시스템 전공 
-* 우희조 : Seven Segment, LED, Step Motor, Push Switch, 초음파센서*
+* 우희조 : Seven Segment, LED, Step Motor, Push Switch, 초음파센서
 * 서형진 : Buzzer,  LCD, Dot Matrix, 화제감지센서, PIR
 * 공통 : Screen, USB CAN, OpenCV 환경설정
 
