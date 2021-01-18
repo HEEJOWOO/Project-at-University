@@ -44,8 +44,8 @@
 # 센서응용시스템
 * Atmega128 사용
 1) PIR Sensor : 인체 감지
-2) SRF02 Sensor : 거리측정
-3) LM35 : 온도측정
+2) SRF02 Sensor : 거리 측정
+3) LM35 : 온도 측정
 4) Servo Motor : 문 열림, 닫힘
 
 # 졸업작품
