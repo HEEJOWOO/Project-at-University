@@ -32,14 +32,14 @@
 ### 실습 내용
 #### Mathlab을 이용하여 다양한 신호처리 실습 구현
 1) Convolution
-* 2) Samlping
-* 3) DFT
-* 4) FFT
-* 5) DCT
-* 6) TF
-* 7) APF
-* 8) IIR Filter
-* 9) Audio Equalizer
+2) Samlping
+3) DFT
+4) FFT
+5) DCT
+6) TF
+7) APF
+8) IIR Filter
+9) Audio Equalizer
 
 # 센서응용시스템
 
