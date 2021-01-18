@@ -31,7 +31,7 @@
 # 임베디드신호처리실습
 ### 실습 내용
 #### Mathlab을 이용하여 다양한 신호처리 실습 구현
-* 1) Convolution
+1) Convolution
 * 2) Samlping
 * 3) DFT
 * 4) FFT
