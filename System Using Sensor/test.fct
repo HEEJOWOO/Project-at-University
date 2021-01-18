@@ -1,0 +1,7 @@
+main DSTACK_USAGE:187 DSTACK_LEVEL:187 FILE:"test.c" LINE:271
+sprintf DSTACK_USAGE:14 DSTACK_LEVEL:201 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1410
+_print DSTACK_USAGE:94 DSTACK_LEVEL:295 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1162
+_ftoe DSTACK_USAGE:16 DSTACK_LEVEL:311 FILE:"C:\cvavreval\lib\stdio.lib" LINE:1098
+floor DSTACK_USAGE:4 DSTACK_LEVEL:315 FILE:"C:\cvavreval\lib\math.lib" LINE:659
+ftrunc DSTACK_USAGE:4 DSTACK_LEVEL:319 FILE:"C:\cvavreval\lib\math.lib" LINE:544
+timer0_comp DSTACK_USAGE:2 DSTACK_LEVEL:321 FILE:"test.c" LINE:265

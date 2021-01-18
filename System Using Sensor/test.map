@@ -1,0 +1,29 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+seg_pat                                                           0x058B      10
+seg_pat1                                                          0x0595      10
+match                                                             0x059F      10
+flag                                                              0x05A9       2
+flag2                                                             0x05AB       2
+k                                                                 0x05AD       2
+b                                                                 0x05AF       2
+n                                                                 0x05B1       2
+k1                                                                0x05B3       2
+ti_Cnt_1ms                                                        0x05B5       1
+Com_Reg                                                           0x05B6       1
+_seed                                                             0x05B7       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+key                                                               R5           1
+count1                                                            R6,R7        2
+PIR_Status                                                        R8,R9        2
+ii                                                                R4           1
+count                                                             R10,R11      2
+i                                                                 R12,R13      2
