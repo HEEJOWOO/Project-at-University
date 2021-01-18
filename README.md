@@ -32,7 +32,7 @@
 ### 실습 내용
 #### <Matlab을 이용하여 다양한 신호처리 실습 구현>
 1) Convolution
-2) Samlping
+2) Samping
 3) DFT
 4) FFT
 5) DCT
