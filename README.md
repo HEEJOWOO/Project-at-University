@@ -42,7 +42,9 @@
 9) Audio Equalizer
 
 # 센서응용시스템
+* 인체 감지 및 온도 센서를 이용한 자동문 구현
 * Atmega128 사용
+* 사용 센서 
 1) PIR Sensor : 인체 감지
 2) SRF02 Sensor : 거리 측정
 3) LM35 : 온도 측정
