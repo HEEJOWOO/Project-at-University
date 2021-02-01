@@ -52,6 +52,6 @@
 
 # 졸업작품
 * 가상피팅시스템 
-* [한국방송·미디어공학회 추계학술대회 캡스톤디자인/](http://www.kibme.org/academic/academicDetail?ae_idx=2296&ae_type=0)
+* [한국방송·미디어공학회 추계학술대회 캡스톤디자인,P4-4](http://www.kibme.org/academic/academicDetail?ae_idx=2296&ae_type=0)
 
 
