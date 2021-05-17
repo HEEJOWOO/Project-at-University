@@ -11,7 +11,7 @@
 * 한국산업기술대학교 전자공학과 임베디드시스템 전공 
 * 우희조 : Seven Segment, LED, Step Motor, Push Switch, 초음파센서
 * 서형진 : Buzzer,  LCD, Dot Matrix, 화제감지센서, PIR
-* 공통 : Screen, USB CAN, OpenCV 환경설정
+* 공통 : Screen, USB CAM, OpenCV 환경설정
 
 ### 주요 기능 
 * FND : 인체 감지 횟수, 화재 감지 횟수, Step Motor 속도,  시스템 On/Off 
