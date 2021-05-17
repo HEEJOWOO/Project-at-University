@@ -4,7 +4,7 @@
 ### <heejo5@naver.com>
 
 # 고급임베디드시스템설계
-### 시연 영상 : https://www.youtube.com/watch?v=o2rErwOosto
+### 시연 영상(https://www.youtube.com/watch?v=o2rErwOosto)
 
 * 고급임베디드시스템 수업 중 기말고사 텀프로젝트로 만들어낸 공장 사고방지 임베디드시스템
 
